@@ -1,0 +1,6 @@
+var name = "Sumit";
+console.log(name);
+name = "Chandradeep";
+console.log(name);
+name = "renu";
+console.log(name);
